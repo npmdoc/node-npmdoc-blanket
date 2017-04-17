@@ -1,9 +1,11 @@
 # api documentation for  [blanket (v1.2.3)](https://github.com/alex-seville/blanket)  [![npm package](https://img.shields.io/npm/v/npmdoc-blanket.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-blanket) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-blanket.svg)](https://travis-ci.org/npmdoc/node-npmdoc-blanket)
 #### seamless js code coverage
 
-[![NPM](https://nodei.co/npm/blanket.png?downloads=true)](https://www.npmjs.com/package/blanket)
+[![NPM](https://nodei.co/npm/blanket.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/blanket)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-blanket/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-blanket_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-blanket/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-blanket/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-blanket/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-blanket/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-blanket/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-blanket/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +20,6 @@
 {
     "author": {
         "name": "Alex-Seville",
-        "email": "hi@alexanderseville.com",
         "url": "http://blanketjs.org"
     },
     "bugs": {
@@ -84,13 +85,11 @@
     "main": "src/index.js",
     "maintainers": [
         {
-            "name": "alexseville",
-            "email": "hi@alexanderseville.com"
+            "name": "alexseville"
         }
     ],
     "name": "blanket",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/alex-seville/blanket.git"
@@ -102,16 +101,6 @@
     "version": "1.2.3"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module blanket](#apidoc.module.blanket)
-
-
-
-# <a name="apidoc.module.blanket"></a>[module blanket](#apidoc.module.blanket)
 
 
 
