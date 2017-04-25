@@ -1,4 +1,7 @@
-# api documentation for  [blanket (v1.2.3)](https://github.com/alex-seville/blanket)  [![npm package](https://img.shields.io/npm/v/npmdoc-blanket.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-blanket) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-blanket.svg)](https://travis-ci.org/npmdoc/node-npmdoc-blanket)
+# npmdoc-blanket
+
+#### basic api documentation for  [blanket (v1.2.3)](https://github.com/alex-seville/blanket)  [![npm package](https://img.shields.io/npm/v/npmdoc-blanket.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-blanket) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-blanket.svg)](https://travis-ci.org/npmdoc/node-npmdoc-blanket)
+
 #### seamless js code coverage
 
 [![NPM](https://nodei.co/npm/blanket.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/blanket)
@@ -98,7 +101,8 @@
         "build": "grunt build",
         "test": "grunt --verbose blanketTest"
     },
-    "version": "1.2.3"
+    "version": "1.2.3",
+    "bin": {}
 }
 ```
 

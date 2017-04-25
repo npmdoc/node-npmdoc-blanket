@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "blanket",
-    "description": "api documentation for [blanket (v1.2.3)](https://github.com/alex-seville/blanket) [![npm package](https://img.shields.io/npm/v/npmdoc-blanket.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-blanket) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-blanket.svg)](https://travis-ci.org/npmdoc/node-npmdoc-blanket)",
+    "description": "#### basic api documentation for  [blanket (v1.2.3)](https://github.com/alex-seville/blanket)  [![npm package](https://img.shields.io/npm/v/npmdoc-blanket.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-blanket) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-blanket.svg)](https://travis-ci.org/npmdoc/node-npmdoc-blanket)",
     "devDependencies": {
         "blanket": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
